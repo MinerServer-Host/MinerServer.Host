@@ -940,6 +940,10 @@ blockquote {
   display: block;
 }
 
+.nicetest {
+  border-radius: 50%;
+}
+
 @media (min-aspect-ratio: 16/9) {
   .mbr-video-foreground {
     height: 300% !important;
